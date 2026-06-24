@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rio-rishabh&label=Profile%20views&color=0e75b6&style=flat" alt="rio-rishabh" /> </p>
 
-- 🎓 Earned my **MS in Software Engineering Systems** from **Northeastern University, Boston** *(2026)* — GPA 3.7/4.0.
+- 🎓 Earned my **MS in Software Engineering Systems** from **Northeastern University, Boston** *(2026)* - GPA 3.7/4.0.
 - 💼 **3+ years** building Java & Spring Boot backends, React & TypeScript frontends, and distributed microservices across **regulated finance and healthcare** environments.
 - 🤖 Hands-on with **production AI systems** — RAG pipelines, vector search, and MCP servers. Daily user of **Claude** and **Cursor**.
 - 🌱 Currently going deeper into **distributed systems, system design, and cloud-native AI applications**.
@@ -28,11 +28,11 @@
   - **Concepts & Practices:** Microservices, Distributed Systems, System Design, Event-Driven Architecture, Unit Testing, Agile/Scrum, OpenAPI 3.0, Playwright, Selenium, Git.
 
 - 💼 Experience:
-  - **Software Engineer Co-op – Mabl, Boston, MA (May 2025 – Dec 2025)**  
+  - **Software Engineer Co-op - Mabl, Boston, MA (May 2025 – Dec 2025)**  
     Built a bidirectional Jira REST integration that auto-files failure tickets from test runs (BigQuery data, DOM screenshots, stack traces), cutting manual ticket creation by 75%; owned Xray test-management integration end-to-end behind per-customer feature flags, reducing workflow overhead by 85%; shipped datatable search/filtering across a 50k+ line TypeScript monorepo, improving test-authoring efficiency by 40%.
-  - **Software Engineer – Publicis Sapient, Bangalore, India (Jun 2021 – May 2023)**  
+  - **Software Engineer - Publicis Sapient, Bangalore, India (Jun 2021 – May 2023)**  
     Delivered full-stack features with thread-safe Java Spring Boot microservices and React/Redux, improving load times by 20%; integrated the UnionPay payment gateway, cutting transaction processing time by 25–35%; tuned Elasticsearch full-text search, improving relevance by 25% and query latency by 40%.
-  - **Software Engineer – Oracle Cerner, Bangalore, India (Sep 2019 – Aug 2020)**  
+  - **Software Engineer - Oracle Cerner, Bangalore, India (Sep 2019 – Aug 2020)**  
     Architected “Sentinel,” a TLS-backed, RBAC data-channel security layer for a regulated EHR environment (+25% data security); built event-driven Kafka pipelines achieving 99.99% reliability with zero message loss; engineered distributed Hadoop MapReduce jobs, cutting data-clustering latency by 40%.
 
 - 💻 Notable Projects:
