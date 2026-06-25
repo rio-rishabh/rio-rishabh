@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rio-rishabh&label=Profile%20views&color=0e75b6&style=flat" alt="rio-rishabh" /> </p>
 
 - 🎓 Earned my **MS in Software Engineering Systems** from **Northeastern University, Boston** *(2026)* - GPA 3.7/4.0.
-- 💼 **3+ years** building Java & Spring Boot backends, React & TypeScript frontends, and distributed microservices across **regulated finance and healthcare** environments.
+- 💼 **4+ years** building Java & Spring Boot backends, React & TypeScript frontends, and distributed microservices across **regulated finance and healthcare** environments.
 - 🤖 Hands-on with **production AI systems** — RAG pipelines, vector search, and MCP servers. Daily user of **Claude** and **Cursor**.
 - 🌱 Currently going deeper into **distributed systems, system design, and cloud-native AI applications**.
 - 🤝 Open to collaborating on backend, full-stack, and GenAI projects.
