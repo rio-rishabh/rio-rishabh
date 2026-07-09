@@ -20,7 +20,7 @@
 - 🤝 Open to collaborating on backend, full-stack, and GenAI projects.
 
 - 🚀 Skills:
-  - **Languages:** Java, TypeScript, JavaScript, Python, SQL, C++, Swift, HTML, CSS.
+  - **Languages:** Java, TypeScript, JavaScript, SQL, C++, Swift, HTML, CSS.
   - **Frameworks & Libraries:** Spring Boot, Spring MVC, React.js, Redux, Node.js, GraphQL, REST API, LangChain, JUnit, Mockito, Kafka, OAuth 2.0.
   - **AI / GenAI & LLMs:** RAG Pipelines, Vector Search, Embeddings, Prompt Engineering, LLM Integration, MCP Server, Gemini API, OpenRouter, Claude, Cursor.
   - **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB, Redis, BigQuery.
