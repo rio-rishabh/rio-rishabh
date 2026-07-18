@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/74038190/238200428-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif)
 
 <h1 align="center">Hi, I'm Rishabh Sharma! 👋</h1>
-<h3 align="center">Software Engineer | Backend & Full-Stack Developer | AI / RAG Systems</h3>
+<h3 align="center">FullStack Software Engineer | Backend & Full-Stack Developer | AI / RAG Systems</h3>
 
 <p align="center">
   <a href="https://rio-rishabh.github.io/MyPortfolio.github.io/" target="blank">
